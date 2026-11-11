@@ -1,0 +1,31 @@
+{
+  "atardecer": {},
+  "suave": {
+    "fuerza": 0.6,
+    "oscurecer": 0.06,
+    "realce_azul": 0.45,
+    "duracion": 6.0,
+    "desfase": 0.35
+  },
+  "intenso": {
+    "fuerza": 0.95,
+    "oscurecer": 0.2,
+    "realce_azul": 1.0,
+    "final_bajo": "#f26a2e",
+    "final_alto": "#8f1f3f"
+  },
+  "dorado": {
+    "fuerza": 0.85,
+    "oscurecer": 0.1,
+    "rosa": "#f7b267",
+    "final_bajo": "#ffb347",
+    "final_alto": "#c8501f"
+  },
+  "violeta": {
+    "fuerza": 0.85,
+    "oscurecer": 0.15,
+    "rosa": "#e0a3ff",
+    "final_bajo": "#e0559a",
+    "final_alto": "#5b2a86"
+  }
+}
